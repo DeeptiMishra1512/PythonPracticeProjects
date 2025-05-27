@@ -1,3 +1,4 @@
+#This is a basic DockerFile to understand how the process of creating Docker Images work
 # Use a lightweight Python base image
 FROM python:3.11-slim
 
